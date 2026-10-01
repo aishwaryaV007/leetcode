@@ -6,4 +6,4 @@
 
 | # | Problem | Difficulty | Solution | Solved |
 |---|---------|------------|----------|--------|
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | easy | [python](0001/solution.py) | 2026-07-22 |
+| 0067 | [Add Binary](https://leetcode.com/problems/add-binary/) | easy | [python](0067/solution.py) | 2026-10-01 |
